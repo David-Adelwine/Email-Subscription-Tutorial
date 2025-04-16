@@ -1,0 +1,28 @@
+body{
+  margin-top: 200px;
+}
+
+
+form {
+  margin-top: 200;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  text-align: center;
+}
+input, button {
+  padding: 10px;
+  margin: 10px 0;
+  width: 250px;
+ 
+}
+
+
+button {
+  background: red;
+  color: #fff;
+  font-weight: 600;
+  
+}
+
