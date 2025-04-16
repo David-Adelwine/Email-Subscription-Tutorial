@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwr7orjEcoQu1xwM6kBVl1SEdIkj8gXtdCBezNEak8d1lDiYDvJcCSKMHp7DStCM8us/exec'
+const scriptURL = ''
 
 // Replace with your deployed Apps Script URL
 const form = document.forms['submit-to-google-sheet'];
